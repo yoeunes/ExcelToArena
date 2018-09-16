@@ -10549,9 +10549,9 @@ body {
 }
 
 .onda-container .onda-content .btn-primary {
-  background-color: #0E1177;
-  border: none;
-  border-radius: 0;
+  background-color: #0e1177;
+  border: 1px solid #0e1177;
+  border-radius: 0.25rem 0 0 0.25rem;
 }
 
 .onda-container .onda-content .btn-file input[type=file] {
