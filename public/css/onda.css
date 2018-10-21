@@ -10488,6 +10488,13 @@ body {
 
 .onda-container {
   padding: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
 }
 
 .onda-container .onda-header {
@@ -10531,7 +10538,6 @@ body {
 }
 
 .onda-container .onda-content {
-  margin-top: 200px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -10541,6 +10547,9 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
 }
 
 .onda-container .onda-content .btn-file {
@@ -10568,5 +10577,19 @@ body {
   background: white;
   cursor: inherit;
   display: block;
+}
+
+.onda-container .onda-footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 100px;
+  padding: 20px 10px;
 }
 

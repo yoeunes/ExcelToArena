@@ -18,7 +18,7 @@
                 <ul class="list-group infos-ul">
                     <li class="list-group-item infos-li">
                         <span class="infos-keys">Prénom et Nom </span> <span class="infos-column">:</span>
-                        <span class="infos-values">Salma Mourad</span>
+                        <span class="infos-values">Mourad Salma</span>
                     </li>
                     <li class="list-group-item infos-li">
                         <span class="infos-keys">Ecole </span> <span class="infos-column">:</span>
@@ -26,7 +26,7 @@
                     </li>
                     <li class="list-group-item infos-li">
                         <span class="infos-keys">Theme </span> <span class="infos-column">:</span>
-                        <span class="infos-values">Gestion de ******</span>
+                        <span class="infos-values">Gestion des vols</span>
                     </li>
                 </ul>
             </div>
@@ -36,7 +36,7 @@
         </div>
         <div class="row onda-content">
             <div class="col-lg-6 col-sm-6 col-12">
-                <h4>Convertisseur Excel</h4>
+                <h4>Convertisseur programme des vols</h4>
                 <div class="input-group">
                     <label class="input-group-btn">
                     <span class="btn btn-primary">
@@ -48,6 +48,29 @@
                 <span class="help-block">
                     Selectionner un fichier excel de votre ordinateur
                 </span>
+            </div>
+    
+            <div class="col-lg-6 col-sm-6 col-12">
+                <h4>Convertisseur affectation des comptoirs</h4>
+                <div class="input-group">
+                    <label class="input-group-btn">
+                    <span class="btn btn-primary">
+                        Selectionner <input type="file" style="display: none;">
+                    </span>
+                    </label>
+                    <input type="text" class="form-control" readonly>
+                </div>
+                <span class="help-block">
+                    Selectionner un fichier excel de votre ordinateur
+                </span>
+            </div>
+        </div>
+        <div class="row onda-footer">
+            <div class="col-xs-4" style="flex: 1;text-align: center;">
+                realisé par <strong>Mourad Salma</strong>
+            </div>
+            <div class="col-xs-4" style="flex: 1;text-align: center;">
+                sous la direction de <strong>El Harti Zakaria</strong>
             </div>
         </div>
     </div>
