@@ -14,3 +14,5 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::post('/converter', 'ConverterController@store')->name('converter.store');

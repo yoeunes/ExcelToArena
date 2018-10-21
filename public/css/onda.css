@@ -10563,6 +10563,18 @@ body {
   border-radius: 0.25rem 0 0 0.25rem;
 }
 
+.onda-container .onda-content .btn-convertir {
+  background-color: #0e1177;
+  border: 1px solid #0e1177;
+  border-radius: 0.25rem;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
 .onda-container .onda-content .btn-file input[type=file] {
   position: absolute;
   top: 0;
