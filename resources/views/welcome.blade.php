@@ -19,7 +19,7 @@
                 <ul class="list-group infos-ul">
                     <li class="list-group-item infos-li">
                         <span class="infos-keys">Prénom et Nom </span> <span class="infos-column">:</span>
-                        <span class="infos-values">Mourad Salma</span>
+                        <span class="infos-values">MOURAD SALMA</span>
                     </li>
                     <li class="list-group-item infos-li">
                         <span class="infos-keys">Ecole </span> <span class="infos-column">:</span>
@@ -83,10 +83,10 @@
         </div>
         <div class="row onda-footer">
             <div class="col-xs-4" style="flex: 1;text-align: center;">
-                realisé par <strong>Mourad Salma</strong>
+                Realisé par <strong>MOURAD SALMA</strong>
             </div>
             <div class="col-xs-4" style="flex: 1;text-align: center;">
-                sous la direction de <strong>El Harti Zakaria</strong>
+                Sous l'encadrement de <strong>HARTI ZAKARYA</strong>
             </div>
         </div>
     </div>
